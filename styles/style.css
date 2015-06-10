@@ -43,14 +43,14 @@ z-index: 2;
 p
 {
     color: grey;
-	font-family:'Lato', sans-serif;
+	font-family:'Century Gothic', sans-serif;
 	font-size: 28px;
 	padding: 20px;
 }
 label
 {
 
-	font-family:'Raleway', sans-serif;
+	font-family:'Century Gothic', sans-serif;
 	font-size: 15px;
 	padding: 20px;
 }
@@ -103,74 +103,7 @@ label
 {	margin-left: 20px;
 	text-align:right;
 }
-.wrapper
-{	background-image: url("images/rula-sibai-flowers.jpg");
-	height:450px;
-	background-size:cover;
-	text-align: center;
-	padding-top: 50px;
-	font-family:'Lato', sans-serif;
-	color:#FE7AA2;
-}
 
-.feature
-{	
-	font-family:'Lato', sans-serif;
-	color:#FE7AA2;
-}
-
-.texte
-{	
-	font-family:'Lato', sans-serif;
-	color:#FE7AA2;
-}
-
-.wrapper H1
-{	font-size: 80px;
-	font-family: 'Poiret One', cursive;
-	margin-top:80px;
-}
-
-ul#nav
-{	list-style-type:none;
-	height : 35px;
-	border: 2px #BDBDBD solid;
-	padding : 0;
-	margin-left: 100px;
-	margin-right: 100px;
-	padding-left:50px;
-	padding-right:50px;
-	background-color : white;
-	text-align:center;
-	border-radius: 10px;
-}
-
-ul#nav li
-{	text-align:center;
-	display:inline-block;
-	font-family: 'Poiret One', cursive;
-	font-size:30px;
-	padding:0 0.5em;
-	border: 5px;
-}
-
-
-ul#nav a
-{color: grey;text-decoration:none}
-
-ul#nav a:hover 
-{ 
-	text-decoration : none;
-	background-color:#FE7AA2;
-	border-radius:5px;
-	font-size:34px;
-	}
-
-	
-ul#nav a:active 
-{ 
-	
-	background-color:#FE7AA2;}
 
 body
 {
@@ -198,79 +131,6 @@ position:relative;
 border-radius: 100px;
 margin-left: 45px
 }
-section
-{
-	background: url("images/background3.png");
-	font-family: 'Poiret One', cursive;
-	margin-left:100px;
-	margin-bottom: 50px;
-	margin-top:20px;
-	background-color: rgba(216, 216, 216, 0.85);
-	height: auto;
-	width: 750px;
-	float:left;
-	box-shadow: 1px 2px 2px #D8D8D8 ;
-	-moz-opacity:0.5;
-	opacity:0,5;
-	position:relative;
-	border:2px solid black;
-
-	
-}
-aside
-{	
-	width: 300px;
-	margin-right: 30px;
-	margin-top:20px;
-	float:left;
-	margin-left: 60px;
-	border:2px solid black;
-}
-#notes
-{
-	text-align: center;
-	background-color:#D8D8D8;
-	font-family: 'Poiret One', cursive;
-	font-size: 24px;
-	padding-top:20px;
-	margin-bottom:30px;
-	height: 150px;
-	width:300px;
-	border: 20px;
-	border:solid;
-	border-color:#BDBDBD;
-	box-shadow: 6px 6px 6px #D8D8D8 ;
-	border:2px solid black;
-	
-	
-}
-
-#contact
-{
-	text-align: center;
-	background:url("images/contact.jpg");
-	background-size: cover;
-	font-family: 'Poiret One', cursive;
-	font-size: 24px;
-	padding-top:20px;
-	margin-bottom:30px;
-	height: 150px;
-	width:300px;
-	border: 20px;
-	border:solid;
-	border-color:#BDBDBD;
-	box-shadow: 6px 6px 6px #D8D8D8 ;
-	border:2px solid black;
-	
-	
-}
-	
-
-/*#network
-{
-position:center;
-}*/
-
 
 #imgslider
 
@@ -289,46 +149,8 @@ position: relative; width: 500%;
 margin: 0; padding: 0; font-size: 0; text-align: left;animation: 20s slidy infinite; 
 
 }
-#imgslider figure img 
-{ width: 20%; height: 400px; float: left;margin:auto; }
 
-@keyframes slidy { 
 
-0% { left: 0%; }
-
-20% { left: 0%; }
-
-25% { left: -100%; }
-
-45% { left: -100%; }
-
-50% { left: -200%; }
-
-70% { left: -200%; } 
-
-75% { left: -300%; }
-
-95% { left: -300%; }
-
-100% { left: -400%; } 
-
-}
-
-ul#social
-
-{list-style-type: none;
-	padding: 2px;
-	}
-ul#social li
-
-{display: inline;
-	}
-
-ul#social li a
-
-	
-{color:#76777f
-	}
 
 
 ul#social li a:hover
