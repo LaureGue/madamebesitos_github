@@ -72,24 +72,24 @@ label
 	font-family:'Lato', sans-serif;
 	color:#FE7AA2;
 }
--
--.feature
--{	
--	font-family:'Lato', sans-serif;
--	color:#FE7AA2;
--}
--
--.texte
--{	
--	font-family:'Lato', sans-serif;
--	color:#FE7AA2;
--}
--
--.wrapper H1
--{	font-size: 80px;
--	font-family: 'Poiret One', cursive;
--	margin-top:80px;
--}
+
+.feature
+{	
+	font-family:'Lato', sans-serif;
+	color:#FE7AA2;
+}
+
+.texte
+{	
+	font-family:'Lato', sans-serif;
+	color:#FE7AA2;
+}
+
+.wrapper H1
+{	font-size: 80px;
+	font-family: 'Poiret One', cursive;
+	margin-top:80px;
+}
 
 #petit_boutton
 {
