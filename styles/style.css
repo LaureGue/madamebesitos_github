@@ -63,6 +63,34 @@ label
 
 }
 
+-.wrapper
+-{	background-image: url("images/rula-sibai-flowers.jpg");
+-	height:450px;
+-	background-size:cover;
+-	text-align: center;
+-	padding-top: 50px;
+-	font-family:'Lato', sans-serif;
+-	color:#FE7AA2;
+-}
+-
+-.feature
+-{	
+-	font-family:'Lato', sans-serif;
+-	color:#FE7AA2;
+-}
+-
+-.texte
+-{	
+-	font-family:'Lato', sans-serif;
+-	color:#FE7AA2;
+-}
+-
+-.wrapper H1
+-{	font-size: 80px;
+-	font-family: 'Poiret One', cursive;
+-	margin-top:80px;
+-}
+
 #petit_boutton
 {
     background-color: grey;
