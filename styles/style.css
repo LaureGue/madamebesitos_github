@@ -187,6 +187,9 @@ ul#social li a:hover
 	}
 .vertical_spacer
 {margin-top: 30px;
+border-width:1px;
+ border-style:dotted;
+ border-color:black;
 	}
 
 footer
