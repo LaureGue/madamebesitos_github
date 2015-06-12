@@ -43,14 +43,14 @@ z-index: 2;
 p
 {
     color: grey;
-	font-family:'Century Gothic', sans-serif;
+	font-family: 'Josefin Slab', serif;
 	font-size: 28px;
 	padding: 20px;
 }
 label
 {
 
-	font-family:'Century Gothic', sans-serif;
+	font-family:'Josefin Slab', serif;
 	font-size: 15px;
 	padding: 20px;
 }
@@ -87,7 +87,7 @@ label
 
 .wrapper H1
 {	font-size: 80px;
-	font-family: 'Century Gothic', cursive;
+	font-family: 'Josefin Slab', serif;
 	margin-top:80px;
 }
 
