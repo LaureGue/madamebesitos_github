@@ -113,6 +113,13 @@ body
 .shadow 
 {	box-shadow: 2px 2px grey
  }
+ 
+ #contact
+{
+	height:200px;
+	background color:#FE7AA2;
+
+}
 #content
 {
 position:relative;
