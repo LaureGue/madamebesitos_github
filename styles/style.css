@@ -80,7 +80,7 @@ label
 #triangle_gauche
 {
 	border-top: 200px solid transparent;
-  	border-right: 200px solid rgba(50, 194, 230, 0.9);
+  	border-right: 100px solid rgba(50, 194, 230, 0.9);
   	
   
 }
@@ -88,7 +88,7 @@ label
 #triangle_droite
 {
 	border-bottom: 200px solid transparent;
-  	border-left: 200px solid rgba(50, 194, 230, 0.9);
+  	border-left: 100px solid rgba(50, 194, 230, 0.9);
   	
   
 }
@@ -129,7 +129,7 @@ body
  
  #contact
 {
-	height:200px;
+	height:100px;
 	background-color:rgba(50, 194, 230, 0.9);
 
 }
