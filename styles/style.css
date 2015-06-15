@@ -80,7 +80,7 @@ label
 #triangle_gauche
 {
 	border-top: 100% solid transparent;
-  	border-right: 100% solid rgba(50, 194, 230, 0.9);
+  	border-right: 100px solid rgba(50, 194, 230, 0.9);
   	
   
 }
