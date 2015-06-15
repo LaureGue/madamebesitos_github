@@ -79,8 +79,8 @@ label
  }
 #triangle_gauche
 {
-	border-top: 50px solid transparent;
-  	border-right: 100px solid red;
+	border-top: auto solid transparent;
+  	border-right: auto solid #cbd0d3;
   	background-color: #cbd0d3;
   
 }
