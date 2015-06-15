@@ -77,8 +77,13 @@ label
     border-color: pink;
     font-size: 44px;
  }
-
-
+#triangle_gauche
+{
+	border-top: 50px solid transparent;
+  	border-right: 100px solid red;
+  	background-color: #cbd0d3;
+  
+}
 #footer_welcome
 {	font-family: 'Raleway', sans-serif;
 	background-color: #cbd0d3;
