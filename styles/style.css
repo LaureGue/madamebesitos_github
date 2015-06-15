@@ -35,7 +35,7 @@ label
 	text-align: center;
 	padding-top: 50px;
 	font-family: 'Josefin Slab', serif;
-	color: rgba(4, 194, 234, 0.9);
+	color: rgba(50, 194, 230, 0.9);
 }
 
 .feature
@@ -117,7 +117,7 @@ body
  #contact
 {
 	height:200px;
-	background-color:#FE7AA2;
+	background-color:rgba(50, 194, 230, 0.9);
 
 }
 #content
