@@ -79,9 +79,9 @@ label
  }
 #triangle_gauche
 {
-	border-top: auto solid transparent;
-  	border-right: auto solid #cbd0d3;
-  	background-color: #cbd0d3;
+	border-top: 200px solid transparent;
+  	border-right: 200px solid #cbd0d3;
+  	
   
 }
 #footer_welcome
