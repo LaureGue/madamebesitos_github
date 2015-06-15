@@ -80,7 +80,15 @@ label
 #triangle_gauche
 {
 	border-top: 200px solid transparent;
-  	border-right: 200px solid #cbd0d3;
+  	border-right: 200px solid rgba(50, 194, 230, 0.9);
+  	
+  
+}
+
+#triangle_droite
+{
+	border-bottom: 200px solid transparent;
+  	border-left: 200px solid rgba(50, 194, 230, 0.9);
   	
   
 }
